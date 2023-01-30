@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "aws-cdk": "^2.50.0",
+    "aws-cdk-lib": "^2.50.0",
+    "aws-sdk": "^2.1250.0",
+    "constructs": "^10.1.154",
+    "esbuild": "^0.15.13",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "@aws-amplify/auth": "^5.1.1",
+    "@types/aws-lambda": "^8.10.108",
+    "@types/uuid": "^8.3.4",
+    "aws-amplify": "^5.0.7",
+    "uuid": "^9.0.0"
+  }
+}
